@@ -12,9 +12,10 @@ Next, you clone this repository.
 ```
 git clone https://github.com/featherton/fennec-utils
 ```  
-Finally, you run the ``build.py`` file with python3...  
+Finally, you run the ``build.sh`` script...  
 ```
-python3 ./build.py
+chmod a+x ./build.sh
+./build.sh
 ```  
 
 # If anything goes wrong  
