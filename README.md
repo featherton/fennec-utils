@@ -18,12 +18,19 @@ chmod a+x ./build.sh
 ./build.sh
 ```  
 
+# Uninstalling  
+Uninstalling requires running the ``remove.sh`` script...  
+```
+chmod a+x ./remove.sh
+./remove.sh
+``` 
+
 # If anything goes wrong  
 If anything goes wrong with the building, make sure you are following this guide correctly.    
 ***If you have followed this guide and are having an issue, please submit an issue...***  
 
 # Please note  
-This guide was cobbled together in a short 15 minutes, so there are bound to be mistakes...  
+This whole thing was cobbled together in a short half-hour, so there are bound to be mistakes... Please open up issues for them...   
 
 # Copying  
 If you wish to copy this program, or make something based off of it, then please make sure you are following the included license...  
